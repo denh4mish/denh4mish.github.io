@@ -1,0 +1,37 @@
+/*BEGIN PS4 Controller Styling*/
+.controller.ds4 {
+    background: url(flxbase.png);
+    height: 598px;
+    width: 806px;
+    /*    margin-left: -403px;
+        margin-top: -280px;*/
+}
+
+.ds4 .abxy {
+    position: absolute;
+    width: 170px;
+    height: 171px;
+    top: 159px;
+    left: 567px;
+}
+
+.ds4 .button {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background: url(flxface.png);
+}
+
+.ds4 .dpad {
+    position: absolute;
+    width: 125px;
+    height: 126px;
+    top: 181px;
+    left: 92px;
+}
+
+.ds4 .face {
+    background: url(flxDpad.png);
+    position: absolute;
+}
+
